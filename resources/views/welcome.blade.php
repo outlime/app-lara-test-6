@@ -38,7 +38,8 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Laravel 5</div>
+                <h1>Branch Test #1</h1>
+                <p>File Modification #1</p>
             </div>
         </div>
     </body>
